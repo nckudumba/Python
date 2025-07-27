@@ -1,4 +1,4 @@
-# PythonAssignment-1
+# Assignment-1
 ## Task 1
 * This program performs basic mathemathical operations using operators and variables
 
