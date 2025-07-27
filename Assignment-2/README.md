@@ -7,6 +7,6 @@
 
 ## Task 2
 * A variable sum is initialized to 0 to store the running total.
-* A for loop iterates through numbers 1 to 50 using range(1, 51).
+* A for loop iterates through numbers 1 to 50 using range(51).
 * In each iteration, the current number i is added to sum.
 * Finally, the result is displayed using a print() statement.
