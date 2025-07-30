@@ -8,7 +8,7 @@ c = 0
 def python():
     global c
     c += 1
-    print("Python", c)
+    print("Python y", c)
     python()
 
 python()

@@ -23,4 +23,4 @@
 counter = 1
 while counter <= 5:
     print("Python")
-    counter += 1
+    counter += 2
