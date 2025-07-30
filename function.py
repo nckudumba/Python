@@ -7,11 +7,11 @@
 
 
 
-def str1():
-    print("basketball")
-    print("cricket")
+# def str1():
+#     print("basketball")
+#     print("cricket")
 
-str1()
+# str1()
 
 def str_add():
     str1 = "Hello"
